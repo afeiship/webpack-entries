@@ -1,5 +1,5 @@
 # webpack-entries
-Get webpack entries from glob path.
+> Get webpack entries from glob path.(For spa/multple pages configurations)
 
 
 ## usage:
